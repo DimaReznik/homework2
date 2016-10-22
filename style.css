@@ -1,0 +1,37 @@
+.image {
+  height: 200px;
+  text-align: center;
+}
+
+.block1 {
+  padding-left: 350px;
+  padding-right: 350px;
+}
+
+.h1 {
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+ .h4 {
+   text-align: left;
+   font-weight: bold;
+   margin-top: 20px;
+   margin-bottom: 20px;
+ }
+
+ .text {
+  color:gray;
+}
+
+p{
+   padding-left: 30px;
+ }
+
+.name2 {
+  color: darkgray;
+}
